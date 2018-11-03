@@ -1,1 +1,9 @@
-../flags
+-pthread
+-g
+-O3
+-flto
+-std=c++17
+-fcolor-diagnostics
+-Weverything
+-Wno-c++98-compat
+-Wno-c++98-compat-pedantic
